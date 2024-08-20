@@ -1,0 +1,13 @@
+{
+	"geode": "3.4.0",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206",
+		"mac": "2.206"
+	},
+	"id": "sheepdotcom.hollow_dash",
+	"name": "Hollow Dash",
+	"version": "v0.0.1-alpha",
+	"developer": "sheepdotcom",
+	"description": "Makes the main menu look like Hollow Knight's main menu"
+}
